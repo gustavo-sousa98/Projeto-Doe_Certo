@@ -9,6 +9,10 @@
 > Status: Concluído
 <br></br>
 
+### Link para acesso do protótipo no Figma: [Protótipo funcional - Doe Certo](https://www.figma.com/file/gdmWc9ybDEm8Q5nEKGGzEM/Projeto-de-PI---Doe-Certo?type=design&node-id=0%3A1&t=9ZTHfLHn2dXoO9S8-1)
+### Link para acesso do protótipo no Figma: [Video de Apresentação Doe Certo](https://www.figma.com/file/gdmWc9ybDEm8Q5nEKGGzEM/Projeto-de-PI---Doe-Certo?type=design&node-id=0%3A1&t=9ZTHfLHn2dXoO9S8-](https://www.linkedin.com/feed/update/urn:li:activity:7076551754804338690/)1)
+
+
 #### :pushpin: Proposta: Uma aplicação desenvolvida com Design Thinking para realizar e receber doações!
 <br></br>
 
